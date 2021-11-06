@@ -1,0 +1,10 @@
+.appointment-card{
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    box-shadow: 5px 5px 5px 5px lightgray;
+}
+#appointment{
+    background-image: url('../../assets/banner/3.jpg');
+    background-size: cover;
+    background-clip: border-box;
+}

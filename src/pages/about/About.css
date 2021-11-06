@@ -1,0 +1,13 @@
+
+.about-card{
+    border-radius: 25px;
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 10px lightgray;
+}
+
+@media screen and (max-width:480px) {
+    iframe{
+        height:14em;
+        width: 21.5em;
+    }
+}

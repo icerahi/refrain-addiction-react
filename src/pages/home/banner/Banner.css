@@ -1,0 +1,25 @@
+.banner-image{
+    height:500px;
+    width:100%;
+}
+ 
+.banner-caption{
+    background-color: rgba(0, 0, 0, 0.603);
+    text-align: center;
+    padding:10px 20px;
+    
+    /* transform: translate(0%,-150%); */
+}
+
+@media screen and (max-width:480px) {
+    .banner-image{
+        height: 75%;
+    }
+    .banner-caption{
+     
+        text-align: center;
+        padding:10px 20px;
+        
+        
+    }
+}

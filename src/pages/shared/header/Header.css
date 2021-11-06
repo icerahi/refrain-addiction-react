@@ -1,0 +1,15 @@
+.band:first-child{
+    border-top-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    font-style: italic;
+}
+
+ul li a{
+    font-weight: 700;
+}
+.displayName{
+    font-size:19px;
+    background: #f5f5f5b5;
+    padding:10px 20px;
+    border-radius: 25px;
+}
